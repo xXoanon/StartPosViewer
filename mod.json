@@ -8,7 +8,7 @@
 	},
 	"id": "d050.startposviewer",
 	"name": "Start Position Viewer",
-	"version": "v1.0.1",
+	"version": "v1.0.2",
 	"developer": "d050",
 	"description": "View and manage all start positions in the editor from a convenient panel.",
 	"tags": [
